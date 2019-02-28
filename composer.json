@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Mattsmithdev\\":"src"
+    }
+  },
+  "require": {
+    "mattsmithdev/pdo-crud-for-free-repositories": "^0.8.0"
+  }
+}

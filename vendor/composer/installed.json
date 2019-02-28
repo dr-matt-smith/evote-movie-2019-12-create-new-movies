@@ -1,0 +1,58 @@
+[
+    {
+        "name": "mattsmithdev/pdo-crud-for-free-repositories",
+        "version": "0.8",
+        "version_normalized": "0.8.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/dr-matt-smith/pdo-crud-for-free-repositories.git",
+            "reference": "38b2e78d6adb58c927fae9614284f4b273eff36c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/dr-matt-smith/pdo-crud-for-free-repositories/zipball/38b2e78d6adb58c927fae9614284f4b273eff36c",
+            "reference": "38b2e78d6adb58c927fae9614284f4b273eff36c",
+            "shasum": ""
+        },
+        "require": {
+            "php": "~5.5|~7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.*",
+            "scrutinizer/ocular": "~1.1",
+            "squizlabs/php_codesniffer": "~2.3"
+        },
+        "time": "2017-02-15T12:11:14+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Mattsmithdev\\PdoCrudRepo\\": "src",
+                "Evote\\": "src/evote"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matt Smith",
+                "email": "dr_matt_smith@me.com",
+                "homepage": "http://mattsmithdev.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "make it really simply to do db crud with pdo",
+        "homepage": "https://github.com/dr-matt-smith/pdo-crud-for-free-repositories",
+        "keywords": [
+            "mattsmithdev",
+            "pdo-crud-for-free-repositories"
+        ]
+    }
+]
