@@ -1,8 +1,5 @@
 # evote-movie-2019-12-create-new-movies
 
-# evote-movie-2019-11-database-movie-data
-
-
 Part of the progressive Movie Voting website project at:
 https://github.com/dr-matt-smith/evote-movie-2019
 
